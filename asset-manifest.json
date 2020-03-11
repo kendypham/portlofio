@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portlofio/static/css/main.35acba21.chunk.css",
-    "main.js": "/portlofio/static/js/main.19dbf398.chunk.js",
-    "main.js.map": "/portlofio/static/js/main.19dbf398.chunk.js.map",
+    "main.js": "/portlofio/static/js/main.f1034bdb.chunk.js",
+    "main.js.map": "/portlofio/static/js/main.f1034bdb.chunk.js.map",
     "runtime-main.js": "/portlofio/static/js/runtime-main.82d51551.js",
     "runtime-main.js.map": "/portlofio/static/js/runtime-main.82d51551.js.map",
     "static/js/2.30dde2ab.chunk.js": "/portlofio/static/js/2.30dde2ab.chunk.js",
     "static/js/2.30dde2ab.chunk.js.map": "/portlofio/static/js/2.30dde2ab.chunk.js.map",
     "index.html": "/portlofio/index.html",
-    "precache-manifest.94fed8a70aa137181cd5189c19be11d4.js": "/portlofio/precache-manifest.94fed8a70aa137181cd5189c19be11d4.js",
+    "precache-manifest.226932fdca8411fa40e79442f2ef2d67.js": "/portlofio/precache-manifest.226932fdca8411fa40e79442f2ef2d67.js",
     "service-worker.js": "/portlofio/service-worker.js",
     "static/css/main.35acba21.chunk.css.map": "/portlofio/static/css/main.35acba21.chunk.css.map",
     "static/js/2.30dde2ab.chunk.js.LICENSE.txt": "/portlofio/static/js/2.30dde2ab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.82d51551.js",
     "static/js/2.30dde2ab.chunk.js",
     "static/css/main.35acba21.chunk.css",
-    "static/js/main.19dbf398.chunk.js"
+    "static/js/main.f1034bdb.chunk.js"
   ]
 }
